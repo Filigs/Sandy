@@ -9,7 +9,7 @@ export default function NavBar() {
             href="#"
             className="self-center text-xl lg:text-2xl font-semibold whitespace-nowrap"
           >
-            Clothing shop
+            Sandy Games
           </a>
         </div>
 
